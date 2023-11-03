@@ -1,4 +1,4 @@
-class Even
+class Evenprogram
 {
 	public static void main(String [] args)
 	{
@@ -9,7 +9,7 @@ class Even
 		}
 		else
 		{
-			System.out.println("Odd")
+			System.out.println("Odd");
 		}
 	}
 }
